@@ -1,0 +1,20 @@
+footer {
+  padding: 50px 0 65px;
+   
+}
+
+footer .list-inline {
+  margin: 0;
+  padding: 0;
+align-content: center;
+}
+
+footer .copyright {
+  font-size: 14px;
+  margin-bottom: 0;
+  text-align: center;
+}
+
+.fa-circle {
+    color: #1e1c1c;
+}

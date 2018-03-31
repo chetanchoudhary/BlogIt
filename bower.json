@@ -1,0 +1,16 @@
+{
+  "name": "blogit",
+  "description": "Blogging Platform",
+  "main": "",
+  "authors": [
+    "Chetan Choudhary"
+  ],
+  "license": "MIT",
+  "homepage": "localhost:80",
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "angular": "angularjs#^1.6.9",
+    "font-awesome": "^5.0.7",
+    "jquery": "^3.3.1"
+  }
+}
